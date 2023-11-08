@@ -4,7 +4,7 @@ Hello there! I'm Ayşe, a software developer with a particular focus on Front-En
 I firmly believe in the strength of collaboration and actively see opportunities to work alongside like-minded individuals who share my commitment to crafting exceptional digital experiences. Beyond the realm of work, I find inspiration in meaningful conversations, the melodies of great music, and the storytelling magic of cinema. These diverse influences fuel my creative journey, driving me to craft experiences that resonate with users on a profound level.
 
 ## 🤝 Let's Connect
-I'm always open to exciting collaborations and opportunities to craft extraordinary experiences. Whether you're a fellow developer, a designer, a storyteller, or someone who shares my passion for civic-tech, I'd love to connect and explore possibilities together.
+I'm always open to exciting collaborations and opportunities to craft extraordinary experiences. Whether you're a fellow developer or a designer I'd love to connect and explore possibilities together.
 
 Feel free to reach out to me via email at mervekosova1@hotmail.com or connect with me on LinkedIn. Let's combine our skills and create a digital world that's both functional and beautiful.
 
